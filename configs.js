@@ -1,4 +1,4 @@
 module['exports'] = {
-  TOKEN: 'NTYyOTk4OTg1NjI4MDU3NjAw.XzYeLQ.tep5_Ipn-Fg2irV9f8RL1cejPUE',
+  TOKEN: 'NTYyOTk4OTg1NjI4MDU3NjAw.XzYlAA.m9JGuMoa8SRSwd6nSqVhF-o7rUo',
   PREFIX: '$'
 };
